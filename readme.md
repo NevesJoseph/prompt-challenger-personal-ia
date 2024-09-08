@@ -121,3 +121,60 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ---
 
 ## 🎯 Prompt de Resposta Proposto
+
+O prompt abaixo é usado para gerar um plano de treino personalizado com base nas informações fornecidas sobre o paciente, incluindo biotipo, dias de treino disponíveis e tipos de exercícios preferidos.
+
+### Exemplo de Prompt:
+
+```plaintext
+Informações do Paciente:
+- Nome: Joseph
+- Biotipo: Ectomorfo
+- Dias de Treino: 3
+- Tipo de Treino: Peso Livre, Maquinário, Cardio
+
+Com base nessas informações, gere um plano de treino e uma sugestão de dieta adequados ao perfil do paciente.
+
+
+RESPOSTA GERADA:
+Plano de Treino para Joseph (Ectomorfo, 3 dias por semana, Peso Livre, Maquinário, Cardio)
+
+Treino ABC (3 dias por semana)
+
+Dia A - Peito e Tríceps
+
+Aquecimento: 10 minutos de cardio leve (corrida ou bicicleta).
+Supino Reto com Barra: 4 séries de 8-10 repetições.
+Crucifixo com Halteres: 3 séries de 10-12 repetições.
+Supino Inclinado com Halteres: 3 séries de 8-10 repetições.
+Tríceps na Polia: 4 séries de 12 repetições.
+Tríceps Francês com Halter: 3 séries de 10 repetições.
+Abdominais: 3 séries de 15-20 repetições.
+Dia B - Costas e Bíceps
+
+Aquecimento: 5 minutos de remo ou bicicleta.
+Puxada na Barra Fixa: 4 séries de 6-8 repetições.
+Remada Curvada com Barra: 3 séries de 8-10 repetições.
+Remada Unilateral com Halter: 3 séries de 10-12 repetições.
+Rosca Direta com Barra: 3 séries de 10 repetições.
+Rosca Martelo com Halteres: 3 séries de 12 repetições.
+Cardio: 15 minutos de corrida leve.
+Dia C - Pernas e Ombros
+
+Aquecimento: 10 minutos de bicicleta.
+Agachamento Livre: 4 séries de 8-10 repetições.
+Leg Press: 3 séries de 12 repetições.
+Cadeira Extensora: 3 séries de 12 repetições.
+Desenvolvimento com Halteres: 3 séries de 10 repetições.
+Elevação Lateral com Halteres: 3 séries de 12 repetições.
+Cardio: 10 minutos de subida leve em escada.
+
+Plano de Dieta para Joseph:
+Objetivo: Ganho de Massa Muscular
+
+Café da Manhã: Omelete com 4 claras, 2 ovos inteiros, pão integral com abacate, suco de laranja.
+Lanche da Manhã: Shake de proteína com leite desnatado, banana, pasta de amendoim.
+Almoço: Frango grelhado, arroz integral, brócolis, azeite.
+Lanche da Tarde: Iogurte natural, nozes, maçã.
+Jantar: Salmão assado, batata-doce, salada.
+Ceia: Cottage com mel e frutas vermelhas.
